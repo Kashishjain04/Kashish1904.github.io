@@ -70,9 +70,14 @@ body {
     overflow: hidden;
 }
 footer {
+    text-align: center;
     overflow: hidden;
     height: 300px;
     width: 100%;
     margin-bottom: -200px;
     bottom: 0px;
+}
+#breadcrumb {
+    margin: 10px 0px;
+    width: 100%;
 }

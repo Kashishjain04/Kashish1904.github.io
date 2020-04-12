@@ -71,5 +71,7 @@ footer {
     padding: 20 70;
     background-color: rgba(128, 156, 172, 0.44);
 }
-.ingredients {
+#breadcrumb {
+    margin: 10px 0px;
+    width: 100%;
 }
