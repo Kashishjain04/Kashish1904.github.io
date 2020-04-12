@@ -52,16 +52,6 @@ body {
     background-color: rgba(156, 140, 140, 0.81);
     padding: 48;
 }
-.dish {
-    margin-top: 20px;
-}
-.image {
-    float: left;
-    height: 250px;
-    width: 270px;
-    margin-right: 20px;
-}
-}
 #copy {
     text-align: center;
     margin-top: 252px;
@@ -83,4 +73,10 @@ footer {
     background-color: rgba(128, 156, 172, 0.44);
     border: 1px solid #000;
     height: 100%;
+}
+#content {
+    padding: 20 70;
+    background-color: rgba(128, 156, 172, 0.44);
+}
+.ingredients {
 }
