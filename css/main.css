@@ -89,16 +89,8 @@ body {
 }
 footer {
     overflow: hidden;
-    background: url(https://gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg);
-    background-size: cover;
-    background-position: center;
     height: 300px;
     width: 100%;
     margin-bottom: -200px;
     bottom: 0px;
-}
-#footer {
-    background-color: rgba(128, 156, 172, 0.44);
-    border: 1px solid #000;
-    height: 100%;
 }
