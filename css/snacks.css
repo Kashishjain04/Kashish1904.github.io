@@ -34,7 +34,7 @@ body {
     box-shadow: 5px 5px 10px #000;
 }
 #head {
-
+    overflow: hidden;
     font-family: Permanent Marker;
     background: url(https://thumbs.dreamstime.com/blog/2016/09/ad-lib-to-fade-give-more-freedom-web-designer-13741-image55977497.jpg);
     background-size: cover;
@@ -60,11 +60,13 @@ body {
     overflow: hidden;
 }
 footer {
+    overflow: hidden;
     background: url(https://gdcindia.co.in/wp-content/uploads/2019/03/contact-us-background.jpg);
     background-size: cover;
     background-position: center;
     height: 300px;
-    margin-bottom: 0px
+    width: 100%;
+    margin-bottom: -200px;
     bottom: 0px;
 }
 #footer {
